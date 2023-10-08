@@ -1,0 +1,9 @@
+# Site settings
+title: My GitHub Pages Site
+description: A simple GitHub Pages site
+theme: minima
+baseurl: "/my-site" # the subpath of your site, e.g., /blog
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
